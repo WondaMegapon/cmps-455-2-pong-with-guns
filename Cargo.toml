@@ -1,0 +1,11 @@
+[package]
+name = "cmps-455-2-pong-with-guns"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+hecs = "0.10.5"
+hecs-schedule = "0.7.0"
+macroquad = "0.4.13"
+rodio = "0.19.0"
+
